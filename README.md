@@ -2,6 +2,9 @@
 
 
 This is for everything about idris.please post questions,recommendations at issues page
+# examples
+
+https://github.com/idris-industry/paradise/
 
 # fundamental libraries
 
