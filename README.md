@@ -12,6 +12,9 @@ Parsing (shipped with idris) : https://github.com/idris-lang/Idris-dev/blob/mast
 
 Monadic DSL : https://github.com/idris-industry/idris-free
 
+# theories 
+two kind of functors: https://github.com/idris-lang/Idris-dev/blob/master/libs/contrib/Interfaces/Verified.idr
+
 # Ease of use
 
 emacs mode
